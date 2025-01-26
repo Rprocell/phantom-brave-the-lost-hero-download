@@ -23,7 +23,7 @@ Click the link below to download the **Phantom Brave: The Lost Hero** installer.
 After the file is downloaded, you'll have a .zip archive. Use a program like WinRAR or 7-Zip to extract the files. Right-click the .zip file and choose "Extract here" or "Extract to [folder name]".
 
 ### Step 3: Run the Installer
-Inside the extracted folder, locate the installer file (e.g., "Phantom_Brave_Installer.exe"). Double-click the installer to begin the installation process. Follow the instructions that appear on the screen.
+Inside the extracted folder, locate the installer file. Double-click the installer to begin the installation process. Follow the instructions that appear on the screen.
 
 ### Step 4: Complete the Installation
 Once the installation is complete, you can either launch the game immediately or exit the installer. To start playing, use the game shortcut on your desktop or find the game in the installation folder.
